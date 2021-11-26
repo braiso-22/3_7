@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <integer-array name="imagenes">
+        <item>@drawable/correcto</item>
+        <item>@drawable/lapiz</item>
+        <item>@drawable/android</item>
+        <item>@drawable/cruz</item>
+        <item>@drawable/correcto</item>
+        <item>@drawable/lapiz</item>
+        <item>@drawable/android</item>
+        <item>@drawable/cruz</item>
+        <item>@drawable/correcto</item>
+        <item>@drawable/lapiz</item>
+        <item>@drawable/android</item>
+        <item>@drawable/cruz</item>
+    </integer-array>
+
+    <string-array name="letras">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+    </string-array>
+
+    <string-array name="numeros">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+    </string-array>
+</resources>
